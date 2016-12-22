@@ -1,0 +1,44 @@
+ .container {
+    margin-top:50px;
+}
+.starter-template {
+	background-color: white;
+	color:blue;
+	font-size: 60px;
+	font-family: verdana;
+	font-weight: bold;
+	border-style: double;
+	border-width: 10px;
+	text-shadow: 4px 4px 4px black
+}
+.header{
+	font-size: 30px;
+	color: black;
+	text-align: left;
+	font-weight: bold;
+}
+.navcontainer {
+	background-color: darkblue
+}
+.lead {
+	font-color: black;
+	text-align: left;
+	font-size: 18px;
+}
+.image {
+	font-size: 12px;
+}
+body{
+    background-repeat:no-repeat;
+    background-image: linear-gradient(to top, white 0%, teal 100%), url('w3css.gif');
+    background-blend-mode: color-dodge;
+    border-bottom-style: groove;
+    border-bottom-width: 10px;
+    border-bottom-color: darkblue;
+    border-left-style: groove;
+    border-left-width: 10px;
+    border-left-color: darkblue;
+    border-right-style: groove;
+    border-right-width: 10px;
+    border-right-color: darkblue;
+}
